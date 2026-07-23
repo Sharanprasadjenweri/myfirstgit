@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f6f8;
+}
+
+.card {
+    text-align: center;
+    background-color: white;
+    padding: 80px 120px;
+    border: none;
+    border-radius: 6px;
+    background: #ec3a3a;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+button:hover {background: #1d55c9;}
