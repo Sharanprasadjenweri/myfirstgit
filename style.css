@@ -10,7 +10,7 @@ body {
 
 .card {
     text-align: center;
-    background-color: white;
+    background-color: rgba(41, 41, 41, 0.355);
     padding: 80px 120px;
     border: none;
     border-radius: 6px;
@@ -19,4 +19,4 @@ body {
     cursor: pointer;
     
 }
-button:hover {background: #1d55c9;}
+button:hover {background: #f7c704;}
