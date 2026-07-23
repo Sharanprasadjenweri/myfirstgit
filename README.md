@@ -4,4 +4,5 @@ A simple beginner Full Stack Development project.
    HTML CSS JAVASCRIPT 
    Git and Github 
 
-![Uploading Screenshot 2026-07-23 201906.png…]()
+## Output 
+https://github.com/Sharanprasadjenweri/myfirstgit/blob/main/Screenshot%202026-07-23%20201906.png
